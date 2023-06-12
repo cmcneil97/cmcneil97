@@ -10,7 +10,7 @@ I'm passionate about Tech and Photography, and enjoy Walking and Video Games. In
 
 - IT Operations and Monitoring
 - Photography, Portrait, Landscape, Street.
-- HTML, CSS, Python, Splunk, Datadog, SQL, Linux, ServiceNow, AWS, Slack, ChatGPT and Jira
+- HTML, CSS, Python, Splunk, Datadog, SQL, Linux, ServiceNow, AWS, Slack and Jira
 
 ## Projects
 
